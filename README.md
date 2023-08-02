@@ -16,8 +16,8 @@
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
 ![GitHub language count](https://img.shields.io/github/languages/count/RiZoeLX/SpamX?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/spambots_error404)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/error404spam_bots)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/spambots_error404)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/error404spam_bots)
 
  - Requirements
    - [![PyPI - pyrogram](https://img.shields.io/badge/pypi-pyrogram-informational)](https://pypi.org/project/pyrogram)  
